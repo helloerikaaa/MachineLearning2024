@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+pandas = "*"
+matplotlib = "*"
+pillow = "*"
+seaborn = "*"
+jupyterlab = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
