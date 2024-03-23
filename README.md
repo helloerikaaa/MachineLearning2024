@@ -3,7 +3,7 @@ Repositorio de la Materia Machine Learning de la Ingeniería en Sistemas Computa
 
 ## Contenido
 * Unidad I: [Fundamentos del aprendizaje automático](https://github.com/helloerikaaa/MachineLearning2024/tree/main/I)
-* Unidad II: Clasificación basada en las técnicas de las redes Bayesianas
+* Unidad II: [Clasificación basada en las técnicas de las redes Bayesianas](https://github.com/helloerikaaa/MachineLearning2024/tree/main/II)
 * Unidad III: Clasificadores lineales
 * Unidad IV: Clasificadores no lineales
 * Unidad V: Análisis de clústers (Clustering)
